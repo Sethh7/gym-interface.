@@ -1,0 +1,11 @@
+@media(max-width: 100vh) {
+    .main-login{
+        padding: 50px; 
+     }
+    .btn-login{
+        width: 100%;
+    }
+    .card-login{
+        height: 480px;
+    }
+}
